@@ -1,0 +1,19 @@
+Privacy Policy for Get All Cookies Extension
+
+Effective Date: [Insert Date]
+
+This Privacy Policy outlines how the "Get All Cookies" Chrome Extension ("we", "us", or "our") handles your data when you use our extension.
+
+1. Information Collection and Use:
+Our extension does not collect, store, or transmit any personal data or cookies. Users have the ability to copy cookies stored within their browser to their clipboard for their personal use. We do not have access to any of the information copied.
+
+2. Permissions:
+The extension uses the following permissions:
+
+Cookies: To allow users to copy cookies from their browser.
+Clipboard Write: To enable users to write the cookies data to their clipboard.
+
+3. User Data:
+No user data is collected, stored, or transmitted to us or any third parties. All data handling occurs locally on the user's device.
+
+4. Feel free to contact me at ashutoshh@protonmail.com for any queries
